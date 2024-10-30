@@ -16,7 +16,7 @@ let request_id = document.getElementById("request-id");
 let app_redirect = document.getElementById("app-redirect");
 let connect_redirect = document.getElementById("connect-redirect");
 
-let epass = "-dev"
+let epass = "-qa"
 let accessToken = null;
 let authorization = null;
 let accountReferenceId = null;
