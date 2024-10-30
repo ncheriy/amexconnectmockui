@@ -1,4 +1,4 @@
-let epass = "-dev";
+let epass = "-qa";
 let authorization = null;
 let accessToken = null;
 let partner = "amazon";
